@@ -19,5 +19,5 @@ net.createServer(connection => {
     console.log('Sbuscribers disconnected.');
     watcher.close();
   });
-}).listen('/tmp/watcher.sock', () => console.log('Listening for subscribers...'));
+}).listen(60300, () => console.log('Listening for subscribers...'));
 
