@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/YourSouLi5Mine/reading_club_node_book#readme",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
